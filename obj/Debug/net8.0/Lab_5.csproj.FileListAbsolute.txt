@@ -1,0 +1,15 @@
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/bin/Debug/net8.0/Lab_5
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/bin/Debug/net8.0/Lab_5.deps.json
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/bin/Debug/net8.0/Lab_5.runtimeconfig.json
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/bin/Debug/net8.0/Lab_5.dll
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/bin/Debug/net8.0/Lab_5.pdb
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/Lab_5.AssemblyInfoInputs.cache
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/Lab_5.AssemblyInfo.cs
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/Lab_5.csproj.CoreCompileInputs.cache
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/Lab_5.sourcelink.json
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/Lab_5.dll
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/refint/Lab_5.dll
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/Lab_5.pdb
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/Lab_5.genruntimeconfig.cache
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_5/obj/Debug/net8.0/ref/Lab_5.dll

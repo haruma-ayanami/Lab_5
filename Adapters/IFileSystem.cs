@@ -1,6 +1,4 @@
-namespace Lab_5;
-
-using System.Collections.Generic;
+﻿namespace FileManagerPatterns.Adapters;
 
 public interface IFileSystem
 {
